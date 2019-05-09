@@ -1,0 +1,14 @@
+/Users/pablogarrido/Projects/prueba/prueba/bin/Debug/netcoreapp2.1/prueba.deps.json
+/Users/pablogarrido/Projects/prueba/prueba/bin/Debug/netcoreapp2.1/prueba.runtimeconfig.json
+/Users/pablogarrido/Projects/prueba/prueba/bin/Debug/netcoreapp2.1/prueba.runtimeconfig.dev.json
+/Users/pablogarrido/Projects/prueba/prueba/bin/Debug/netcoreapp2.1/prueba.dll
+/Users/pablogarrido/Projects/prueba/prueba/bin/Debug/netcoreapp2.1/prueba.pdb
+/Users/pablogarrido/Projects/prueba/prueba/obj/Debug/netcoreapp2.1/prueba.csprojAssemblyReference.cache
+/Users/pablogarrido/Projects/prueba/prueba/obj/Debug/netcoreapp2.1/prueba.csproj.CoreCompileInputs.cache
+/Users/pablogarrido/Projects/prueba/prueba/obj/Debug/netcoreapp2.1/prueba.RazorAssemblyInfo.cache
+/Users/pablogarrido/Projects/prueba/prueba/obj/Debug/netcoreapp2.1/prueba.RazorAssemblyInfo.cs
+/Users/pablogarrido/Projects/prueba/prueba/obj/Debug/netcoreapp2.1/prueba.AssemblyInfoInputs.cache
+/Users/pablogarrido/Projects/prueba/prueba/obj/Debug/netcoreapp2.1/prueba.AssemblyInfo.cs
+/Users/pablogarrido/Projects/prueba/prueba/obj/Debug/netcoreapp2.1/prueba.RazorTargetAssemblyInfo.cache
+/Users/pablogarrido/Projects/prueba/prueba/obj/Debug/netcoreapp2.1/prueba.dll
+/Users/pablogarrido/Projects/prueba/prueba/obj/Debug/netcoreapp2.1/prueba.pdb
